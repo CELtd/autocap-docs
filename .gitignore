@@ -1,0 +1,22 @@
+# GitBook build artifacts
+_book/
+.gitbook/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if using GitBook CLI locally)
+node_modules/
+package-lock.json
+
+# Temporary files
+*.tmp
+*.temp

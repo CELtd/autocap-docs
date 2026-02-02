@@ -1,0 +1,15 @@
+# Summary
+
+* [Introduction](concepts/introduction.md)
+* [What is AutoCap?](concepts/what-is-autocap.md)
+* [How Does AutoCap Work?](mechanism/how-it-works.md)
+* [Round Structure](mechanism/round-structure.md)
+* [1. Registration](mechanism/phase-1-registration.md)
+* [What Counts as On-Chain Activity](mechanism/onchain-activity-definition.md)
+* [2. Burn FIL Through Filecoin Pay](mechanism/phase-2-activity.md)
+* [3. Proportional DataCap Allocation](mechanism/phase-3-allocation.md)
+* [4. Monitoring Your Progress](mechanism/monitoring.md)
+* [Who is AutoCap For?](concepts/who-is-it-for.md)
+* [Why FIL Burns?](concepts/why-fil-burns.md)
+* [Usage in Practice](participation/usage-in-practice.md)
+* [Questions or Feedback](questions.md)
