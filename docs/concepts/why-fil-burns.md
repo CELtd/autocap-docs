@@ -1,7 +1,11 @@
-## Why FIL Burns?
+# Why FIL Burns?
 
-FIL burns provide a protocol-native, verifiable signal of finalized economic activity on the Filecoin network.
+FIL burns provide a **protocol-native, verifiable signal of economic activity** on the Filecoin network.
 
-### Registration Fees
+When FIL is burned as part of Filecoin Pay settlement:
 
-Registration fees **do not** count toward eligible FIL burns and serve only as an access-control mechanism.
+* The event is recorded on-chain
+* It is irreversible and cannot be faked
+* It reflects finalized economic usage of Filecoin services
+
+By tying DataCap allocation to FIL burns, AutoCap uses a **neutral and objective proxy for value**, avoiding subjective evaluation or intent-based signaling.
