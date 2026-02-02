@@ -8,11 +8,15 @@ Each round is parameterized by:
 * A **registration fee**, paid in FIL
 * A fixed **total DataCap pool** to be allocated at the end of the round
 
-The round lifecycle consists of four phases:&#x20;
+### Rounds
 
-1. Registration,&#x20;
-2. Activity measurement,&#x20;
-3. Allocation calculation, and distribution.
+The round lifecycle consists of **three** protocol **phases**:
+
+1. **Registration**&#x20;
+2. **Contribution**
+3. **Allocation**
+
+Throughout the round, AutoCap provides continuous, real-time observability into contributions and provisional allocations via the dashboard.
 
 Rounds are independent from one another. Activity in one round does not carry over to the next, and participants must explicitly register for each round they wish to participate in.
 

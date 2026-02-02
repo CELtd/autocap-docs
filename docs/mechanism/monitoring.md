@@ -1,6 +1,6 @@
-# 4. Monitoring Your Progress
+# Monitoring and Transparency
 
-AutoCap provides a real-time dashboard that allows participants to:
+Monitoring is available throughout all phases of a round through a real-time dashboard that allows participants to:
 
 * View upcoming, active, and past rounds
 * See registered participants for each round
