@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to Autocap](README.md)
 * [What is AutoCap?](concepts/what-is-autocap.md)
 * [How Does AutoCap Work?](mechanism/how-it-works.md)
 * [1. Registration](phase-1-registration/README.md)

@@ -1,4 +1,8 @@
-# (WIP) Introducing AutoCap: An Automatic DataCap Allocator Based on On-Chain Activity
+---
+description: An automatic DataCap allocator based on On-chain economic activity.
+---
+
+# Welcome to Autocap
 
 At [CryptoEconLab](https://cryptoeconlab.com/), we've built [**AutoCap**](https://filautocap.xyz/), a system that enables Storage Providers to access Filecoin Plus (FIL+) DataCap through a transparent, automated, and activity-based process.
 
