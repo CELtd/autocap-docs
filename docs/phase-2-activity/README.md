@@ -1,4 +1,8 @@
-# 2. Burn FIL Through Filecoin Pay
+---
+description: Burn FIL Through Filecoin Pay
+---
+
+# 2. Contribution
 
 During an active round, registered participants generate economic contribution by **burning FIL through the settlement of** [**Filecoin Pay**](https://pay.filecoin.cloud) **payment rails**.
 

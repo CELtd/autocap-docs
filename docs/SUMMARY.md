@@ -5,7 +5,7 @@
 * [How Does AutoCap Work?](mechanism/how-it-works.md)
 * [1. Registration](phase-1-registration/README.md)
   * [What Counts as On-Chain Activity](phase-1-registration/what-counts-as-on-chain-activity.md)
-* [2. Contribution Phase: Burn FIL Through Filecoin Pay](phase-2-activity/README.md)
+* [2. Contribution](phase-2-activity/README.md)
   * [Examples of Eligible Activity](phase-2-activity/examples-of-eligible-activity.md)
 * [3. Allocation and Distribution](mechanism/phase-3-allocation.md)
 * [Monitoring and Transparency](mechanism/monitoring.md)

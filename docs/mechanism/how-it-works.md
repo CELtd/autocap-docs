@@ -12,9 +12,9 @@ Each round is parameterized by:
 
 The round lifecycle consists of **three** protocol **phases**:
 
-1. **Registration**&#x20;
-2. **Contribution**
-3. **Allocation**
+1. **Registration ;**
+2. **Contribution;**
+3. **Allocation** and **Distribution.**
 
 Throughout the round, AutoCap provides continuous, real-time observability into contributions and provisional allocations via the dashboard.
 
