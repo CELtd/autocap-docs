@@ -2,9 +2,13 @@
 
 Once the round ends:
 
-1. Eligible FIL burns are finalized and aggregated
-2. DataCap allocations are computed deterministically based on the round’s formula
-3. Final allocation results are published on the dashboard
-4. DataCap is issued to the **DataCap Actor ID** specified during registration
+1. Eligible FIL burns are counted;
+2.  DC allocations are computed deterministically based on the round’s formula:
 
-> Note: The exact timing and on-chain execution mechanism for DataCap issuance is under active development and will be documented prior to mainnet deployment.
+    $$
+    \text{Your DC Allocation} = (\text{Your \ FIL \ Burned in Round / Total FIL Burned in  Round})
+    × \text{Round's Total DC}
+    $$
+3. Final allocation results are published on the dashboard;
+4. DC is issued to the **DataCap Actor ID** specified during registration;
+

@@ -1,15 +1,15 @@
 # Table of contents
 
 * [Welcome to Autocap](README.md)
-* [What is AutoCap?](concepts/what-is-autocap.md)
-* [How Does AutoCap Work?](mechanism/how-it-works.md)
+* [What is Autocap?](concepts/what-is-autocap.md)
+* [How Does Autocap Work?](mechanism/how-it-works.md)
 * [1. Registration](phase-1-registration/README.md)
   * [What Counts as On-Chain Activity](phase-1-registration/what-counts-as-on-chain-activity.md)
 * [2. Contribution](phase-2-activity/README.md)
   * [Examples of Eligible Activity](phase-2-activity/examples-of-eligible-activity.md)
 * [3. Allocation and Distribution](mechanism/phase-3-allocation.md)
 * [Monitoring and Transparency](mechanism/monitoring.md)
-* [Who is AutoCap For?](concepts/who-is-it-for.md)
+* [Who is Autocap For?](concepts/who-is-it-for.md)
 * [Why FIL Burns?](concepts/why-fil-burns.md)
 * [Registration Fee](registration-fee.md)
 * [Usage in Practice](usage-in-practice/README.md)

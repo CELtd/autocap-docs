@@ -1,15 +1,15 @@
-# Who is AutoCap For?
+# Who is Autocap For?
 
-AutoCap is designed for **Storage Providers** who:
+Autocap is designed for **Storage Providers** who:
 
 * Provide services that generate **economic activity via Filecoin Pay**
-* Want transparent, automated access to DataCap based on verifiable on-chain behavior
+* Want transparent, automated access to DC based on verifiable on-chain behavior
 * Prefer a competitive, rule-based allocation mechanism over manual applications
 
-By providing services through Filecoin Pay — including storage-related workflows — Storage Providers can simultaneously:
+By providing services through Filecoin Pay  (including storage-related workflows) Storage Providers can:
 
-* Generate on-chain economic activity
-* Earn DataCap allocations via AutoCap
-* Use that DataCap to make verified storage deals
+* Generate on-chain economic activity;
+* Earn DC allocations via Autocap;
+* Subsequently, use that DC to make verified storage deals.
 
-AutoCap is **optional**. Storage Providers may continue to access DataCap through existing Filecoin Plus channels. AutoCap introduces an additional path based on an **action-first, reward-later** model.
+Autocap is **optional**. Storage Providers may continue to access DC through existing Filecoin Plus channels. Autocap only introduces an additional path based on an **action-first, reward-later** model.

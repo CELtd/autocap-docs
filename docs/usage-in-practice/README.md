@@ -1,10 +1,10 @@
 # Usage in Practice
 
-This section describes the typical workflow for participating in an AutoCap round, from preparation to allocation.
+This section describes the typical workflow for participating in an Autocap round, from preparation to allocation.
 
 #### Monitoring and Transparency
 
-The AutoCap Dashboard can be accessed at any time to:
+The [Autocap Dashboard](https://filautocap.xyz/) can be accessed at any time to:
 
 * View upcoming, active, and completed rounds
 * Inspect registered Participant Addresses

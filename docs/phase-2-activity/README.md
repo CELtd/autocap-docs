@@ -6,7 +6,7 @@ description: Burn FIL Through Filecoin Pay
 
 During an active round, registered participants generate economic contribution by **burning FIL through the settlement of** [**Filecoin Pay**](https://pay.filecoin.cloud) **payment rails**.
 
-AutoCap does not track generic payments or transfers. It observes **finalized Filecoin Pay settlement events** that result in FIL being burned on-chain and originate from a registered **Participant Address**.
+Autocap does not track generic payments or transfers. It observes **finalized Filecoin Pay settlement events** that result in FIL being burned on-chain and originate from a registered **Participant Address**.
 
 **Settlement and FIL Burns**
 
@@ -18,9 +18,9 @@ Only burns that:
 * Happen during a **rail settlement;**
 * Originate from a registered Participant Address;
 * Are denominated in FIL;
-* Occur within the round window.
+* Occur within the round window;
 
-are counted toward AutoCap’s accounting.
+are counted toward Autocap’s accounting.
 
 Unsettled rails, pending obligations, or reverted settlements are not included.
 
