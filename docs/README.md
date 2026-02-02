@@ -1,4 +1,10 @@
-# AutoCap Documentation
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
+---
+
+# Welcome to Autocap
 
 Welcome to the AutoCap documentation.
 
@@ -14,6 +20,6 @@ Visit [filautocap.xyz](https://filautocap.xyz/) to access the AutoCap Dashboard.
 
 Use the table of contents on the left to explore the documentation, or start with:
 
-- [Introduction](concepts/introduction.md)
-- [What is AutoCap?](concepts/what-is-autocap.md)
-- [How Does AutoCap Work?](mechanism/how-it-works.md)
+* [Introduction](concepts/introduction.md)
+* [What is AutoCap?](concepts/what-is-autocap.md)
+* [How Does AutoCap Work?](mechanism/how-it-works.md)

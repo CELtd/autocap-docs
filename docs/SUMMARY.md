@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [Welcome to Autocap](README.md)
 * [Introduction](concepts/introduction.md)
 * [What is AutoCap?](concepts/what-is-autocap.md)
 * [How Does AutoCap Work?](mechanism/how-it-works.md)
