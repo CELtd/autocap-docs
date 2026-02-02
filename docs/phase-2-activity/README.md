@@ -13,15 +13,14 @@ AutoCap does not track generic payments or transfers. It observes **finalized Fi
 Filecoin Pay supports programmable payment rails that accumulate obligations over time.\
 FIL is **not burned continuously**, but rather **at settlement**, when accumulated obligations are finalized on-chain.
 
-Only FIL that is:
+Only burns that:
 
-* Burned as a direct result of **rail settlement**
-* Finalized on-chain
-* Denominated in FIL
-* Originating from a registered Participant Address
-* Occurring within the round window
+* Happen during a **rail settlement;**
+* Originate from a registered Participant Address;
+* Are denominated in FIL;
+* Occur within the round window.
 
-is counted toward AutoCap’s accounting.
+are counted toward AutoCap’s accounting.
 
 Unsettled rails, pending obligations, or reverted settlements are not included.
 
