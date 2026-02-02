@@ -1,9 +1,3 @@
----
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
----
-
 # Welcome to Autocap
 
 Welcome to the AutoCap documentation.
