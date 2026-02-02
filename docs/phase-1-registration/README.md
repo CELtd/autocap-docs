@@ -1,6 +1,6 @@
 # 1. Registration
 
-![Screenshot 2026-01-12 125319](https://hackmd.io/_uploads/Skl0xDGSZe.png)
+![](https://hackmd.io/_uploads/Skl0xDGSZe.png)
 
 When a round opens, participants can register through the [Autocap Dashboard](https://filautocap.xyz/) by:
 
