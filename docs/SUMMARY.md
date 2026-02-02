@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Welcome to Autocap](README.md)
-* [Introduction](concepts/introduction.md)
+* [Introduction](README.md)
 * [What is AutoCap?](concepts/what-is-autocap.md)
 * [How Does AutoCap Work?](mechanism/how-it-works.md)
 * [Round Structure](mechanism/round-structure.md)
