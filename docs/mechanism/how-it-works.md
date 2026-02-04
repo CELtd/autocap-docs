@@ -1,24 +1,29 @@
-# How Does Autocap Work?
+# How Autocap Works?
 
-Autocap operates in **discrete allocation rounds**. Each round defines a self-contained accounting period during which economic activity is measured, and Datacap is distributed.
+AutoCap operates through **discrete allocation rounds**. Each round defines a self-contained accounting period during which on-chain economic activity is measured and DataCap is distributed.
 
 Each round is parameterized by:
 
-* A fixed **start time** and **end time**
-* A **registration fee**, paid in FIL
-* A fixed **total DC pool** to be allocated at the end of the round
+* A fixed start time and end time
+* A registration fee, paid in FIL
+* A fixed total DataCap (DC) pool to be allocated at the end of the round
 
-### Rounds
+#### Round Lifecycle
 
-The round lifecycle consists of **three** protocol **phases**:
+Each round progresses through three protocol phases:
 
-1. **Registration ;**
-2. **Contribution;**
-3. **Allocation** and **Distribution.**
+1. **Registration**\
+   Participants explicitly register for the round by paying the registration fee.
+2. **Contribution and On-Chain activity**\
+   During the active window of the round, participants generate on-chain economic activity. Contributions are measured through FIL burned via the settlement of Filecoin Pay rails.
+3. **Allocation and Distribution**\
+   At the end of the round, the total DC pool is distributed proportionally to participants based on their relative contribution during the round.
 
-Throughout the round, Autocap provides continuous, real-time observability into contributions and provisional allocations via the dashboard.
+Throughout the round, AutoCap provides continuous, real-time observability into participant contributions and provisional allocation outcomes via the dashboard.
 
-Rounds are independent from one another. Activity in one round does not carry over to the next, and participants must explicitly register for each round they wish to participate in.
+#### Round Independence
+
+Rounds are independent of one another. Activity in one round does not carry over to subsequent rounds, and participants must register separately for each round they wish to join.
 
 This design ensures:
 

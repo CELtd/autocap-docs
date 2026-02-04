@@ -3,6 +3,5 @@ title: DC formula
 ---
 
 $$
-\text{Your DC Allocation} = (\text{Your \ FIL \ Burned / Total FIL Burned in the Round})
-× \text{Round's Total DC Pool}
+\text{DC}_i = \text{DC}_{\text{pool}} \times \frac{B_i}{B_{\text{total}}}
 $$
