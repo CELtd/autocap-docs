@@ -4,24 +4,31 @@ description: Burn FIL Through Filecoin Pay
 
 # 2. Contribution and On-Chain Activity
 
-AutoCap defines economic contribution narrowly and precisely.
+{% hint style="warning" %}
+#### **Only Rails denominated in FIL are eligible for DC allocation via Autocap.**
+{% endhint %}
 
-During an active round, registered participants generate contribution by **burning FIL through the settlement of Filecoin Pay payment rails**.
+Autocap defines economic contribution narrowly and precisely.
 
-AutoCap does not track generic payments, transfers, or intermediate obligations. Contribution is observed **only at settlement**, when accumulated payment obligations are finalized on-chain and result in FIL being burned.
+During an active round, registered participants generate contributions by **burning FIL through the settlement of Filecoin Pay payment rails**.
 
+Autocap does not track generic payments, transfers, or intermediate obligations. Contribution is observed **only at settlement**, when accumulated payment obligations are finalized on-chain and result in FIL being burned.
+
+{% hint style="success" %}
 #### Valid Contribution Conditions
 
 A FIL burn is counted toward a participant’s contribution **only if all of the following hold**:
 
-* The burn originates from a **registered Participant Address**
+* The burn originates from a **registered Participant Burn Address**
 * The burn results from the **settlement of a Filecoin Pay payment rail**
-* The settlement is **denominated in FIL**
+* The settlement is **denominated in FIL** (not in USFDC or other tokens)
 * The settlement is **finalized on-chain**
 * The settlement occurs **within the active round window**
 
-Only FIL that is actually burned as part of settlement is included in AutoCap’s accounting.
+Only FIL that is actually burned as part of settlement is included in Autocap’s accounting.
+{% endhint %}
 
+{% hint style="danger" %}
 #### Excluded Activity
 
 The following do **not** count toward contribution:
@@ -33,6 +40,7 @@ The following do **not** count toward contribution:
 * Activity originating from non-registered addresses
 * Activity occurring outside the round window
 * Activity denominated in assets other than FIL
+{% endhint %}
 
 #### Note on Future Refinements
 

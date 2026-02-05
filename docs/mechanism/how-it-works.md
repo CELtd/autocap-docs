@@ -21,6 +21,10 @@ Each round progresses through three protocol phases:
 
 Throughout the round, AutoCap provides continuous, real-time observability into participant contributions and provisional allocation outcomes via the dashboard.
 
+{% hint style="warning" %}
+#### **Only Rails denominated in FIL are eligible for DC allocation via Autocap.**
+{% endhint %}
+
 #### Round Independence
 
 Rounds are independent of one another. Activity in one round does not carry over to subsequent rounds, and participants must register separately for each round they wish to join.

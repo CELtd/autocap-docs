@@ -20,12 +20,14 @@ The DC allocation that the _i-th_ participant receives is given by:
 
 This formula is applied once, at round close, using the finalized on-chain data recorded during the round.
 
+{% hint style="info" %}
 #### Example
 
 * Round has 10 TiB of DC to distribute
 * Total FIL burned by all participants: 100 FIL
 * Alice burned: 10 FIL (10% of total)
 * Alice receives: 1 TiB (10% of total DC)
+{% endhint %}
 
 #### Allocation Properties&#x20;
 
