@@ -10,5 +10,5 @@ Once the round ends:
     × \text{Round's Total DC}
     $$
 3. Final allocation results are published on the dashboard;
-4. DC is issued to the **DataCap Actor ID** specified during registration;
+4. DC is issued to the **DataCap Recipient Address** specified during registration;
 

@@ -44,5 +44,5 @@ The following do **not** count toward contribution:
 
 #### Note on Future Refinements
 
-Future versions of AutoCap may further constrain contribution accounting to include only Filecoin Pay settlements that can be directly linked to sealed storage sectors (e.g. PoRep-backed storage deals).
+Future versions of Autocap may further constrain contribution accounting to include only Filecoin Pay settlements that can be directly linked to sealed storage sectors (e.g. PoRep-backed storage deals).
 
