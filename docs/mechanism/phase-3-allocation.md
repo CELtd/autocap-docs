@@ -29,6 +29,14 @@ This formula is applied once, at round close, using the finalized on-chain data 
 * Alice receives: 1 TiB (10% of total DC)
 {% endhint %}
 
+{% hint style="warning" %}
+#### Minimum Allocation is 1 MiB (1,048,576 bytes)
+
+Only allocation over 1 MiB will be executed by Autocap.
+
+Any allocation below this threshold will not receive any DC during the round.
+{% endhint %}
+
 #### Allocation Properties&#x20;
 
 This mechanism ensures:
