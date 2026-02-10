@@ -4,6 +4,8 @@ description: An automatic DataCap allocator based on On-chain economic activity.
 
 # Welcome to AutoCap
 
+<figure><img src=".gitbook/assets/AutoCap Presentation.png" alt=""><figcaption></figcaption></figure>
+
 At [CryptoEconLab](https://cryptoeconlab.com/), we've built [**AutoCap**](https://filautocap.xyz/), an automatic DataCap allocator for the [Filecoin Plus (FIL+)](https://fil.org/filecoin-plus) program.
 
 AutoCap enables participants to earn DataCap through a transparent, automated, and activity-based process. Instead of relying on manual applications or discretionary approval, AutoCap distributes DataCap based on **verifiable on-chain economic activity**.
