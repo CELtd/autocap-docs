@@ -5,14 +5,14 @@ description: Burn FIL Through Filecoin Pay
 # 2. Contribution and On-Chain Activity
 
 {% hint style="warning" %}
-#### **Only Rails denominated in FIL are eligible for DC allocation via Autocap.**
+#### **Only Filecoin Pay payment rails denominated in FIL are eligible for DC allocation via Autocap.**
 {% endhint %}
 
-Autocap defines economic contribution narrowly and precisely.
+AutoCap defines economic contribution narrowly and precisely.
 
 During an active round, registered participants generate contributions by **burning FIL through the settlement of Filecoin Pay payment rails**.
 
-Autocap does not track generic payments, transfers, or intermediate obligations. Contribution is observed **only at settlement**, when accumulated payment obligations are finalized on-chain and result in FIL being burned.
+AutoCap does not track generic payments, transfers, or intermediate obligations. Contribution is observed **only at settlement**, when accumulated payment obligations are finalized on-chain and result in FIL being burned.
 
 {% hint style="success" %}
 #### Valid Contribution Conditions
@@ -25,7 +25,7 @@ A FIL burn is counted toward a participant’s contribution **only if all of the
 * The settlement is **finalized on-chain**
 * The settlement occurs **within the active round window**
 
-Only FIL that is actually burned as part of settlement is included in Autocap’s accounting.
+Only FIL that is actually burned as part of settlement is included in AutoCap’s accounting.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -44,5 +44,5 @@ The following do **not** count toward contribution:
 
 #### Note on Future Refinements
 
-Future versions of Autocap may further constrain contribution accounting to include only Filecoin Pay settlements that can be directly linked to sealed storage sectors (e.g. PoRep-backed storage deals).
+Future versions of AutoCap may further constrain contribution accounting to include only Filecoin Pay settlements that can be directly linked to sealed storage sectors (e.g. PoRep-backed storage deals).
 

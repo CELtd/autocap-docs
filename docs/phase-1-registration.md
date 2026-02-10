@@ -19,7 +19,7 @@ Registration establishes a binding between measured on-chain activity of the _**
 
 {% hint style="info" %}
 The **DataCap Recipient Address** is in the form of **Filecoin's Actor ID** (`f0xxx`). \
-However, during the registration for the round, it can be provided as a standard wallet address `f1, f2, f3, f4, 0x` since Autocap automatically derives the correct address. \
+However, during the registration for the round, it can be provided as a standard wallet address `f1, f2, f3, f4, 0x` since AutoCap automatically derives the correct address. \
 You can check your Actor ID at [https://filecoin.blockscout.com/](https://filecoin.blockscout.com/).
 {% endhint %}
 

@@ -6,4 +6,4 @@ When FIL is burned as part of a Filecoin Pay settlement, the event is recorded o
 
 Because FIL is burned only at settlement, it captures activity that has completed its full lifecycle: obligations have accrued, services have been delivered, and payment has been finalized. This makes FIL burns a reliable indicator of completed economic activity.
 
-By tying DataCap allocation to FIL burns, Autocap relies on a **neutral and objective proxy for value**. Allocation decisions do not depend on intent, metadata, or off-chain interpretation, and do not require subjective evaluation of services or participants. Instead, they are derived directly from observable on-chain outcomes.
+By tying DataCap allocation to FIL burns, AutoCap relies on a **neutral and objective proxy for value**. Allocation decisions do not depend on intent, metadata, or off-chain interpretation, and do not require subjective evaluation of services or participants. Instead, they are derived directly from observable on-chain outcomes.

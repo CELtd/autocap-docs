@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome to Autocap](README.md)
-* [What is Autocap?](concepts/what-is-autocap.md)
-* [How Autocap Works?](mechanism/how-it-works.md)
+* [Welcome to AutoCap](README.md)
+* [What is AutoCap?](concepts/what-is-autocap.md)
+* [How AutoCap Works?](mechanism/how-it-works.md)
 * [1. Registration](phase-1-registration.md)
 * [2. Contribution and On-Chain Activity](phase-2-activity/README.md)
   * [Examples of Eligible Contribution Paths](phase-2-activity/examples-of-eligible-contribution-paths.md)

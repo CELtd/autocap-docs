@@ -1,6 +1,6 @@
-# How Autocap Works?
+# How AutoCap Works?
 
-Autocap operates through **discrete allocation rounds**. Each round defines a self-contained accounting period during which on-chain economic activity is measured and DataCap is distributed.
+AutoCap operates through **discrete allocation rounds**. Each round defines a self-contained accounting period during which on-chain economic activity is measured, and DataCap is distributed.
 
 Each round is parameterized by:
 
@@ -19,7 +19,7 @@ Each round progresses through three protocol phases:
 3. **Allocation and Distribution**\
    At the end of the round, the total DC pool is distributed proportionally to participants based on their relative contribution during the round.
 
-Throughout the round, Autocap provides continuous, real-time observability into participant contributions and provisional allocation outcomes via the [dashboard](https://filautocap.xyz/).
+Throughout the round, AutoCap provides continuous, real-time observability into participant contributions and provisional allocation outcomes via the [dashboard](https://filautocap.xyz/).
 
 #### Round Independence
 
