@@ -23,6 +23,10 @@ However, during the registration for the round, it can be provided as a standard
 You can check your Actor ID at [https://filecoin.blockscout.com/](https://filecoin.blockscout.com/).
 {% endhint %}
 
+{% hint style="warning" %}
+The **DataCap Recipient Address** must **already be active on-chain**. In practice, this means it should have sent or received at least one transaction (holding a small amount of FIL is sufficient).
+{% endhint %}
+
 #### Address Roles
 
 Registration defines two distinct address roles:
