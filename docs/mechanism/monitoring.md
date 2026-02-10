@@ -16,6 +16,6 @@ During all phases of a round (registration, contribution, and allocation) partic
 * View expected DataCap allocations, updated continuously as new settlements occur
 * Verify registration status and associated addresses
 
-All contribution data displayed in the dashboard is derived directly from on-chain events. For each participant, the dashboard links the associated Participant Burn Address to [**https://pay.filecoin.cloud**](https://pay.filecoin.cloud), where Filecoin Pay settlement transactions and the resulting FIL burns can be independently inspected and verified.
+All contribution data displayed in the dashboard is derived directly from on-chain events. Every participant's address links directly to [Blockscout](https://filecoin.blockscout.com/), where FIL burns can be independently verified.
 
 By exposing both inputs (settlement events and burns) and intermediate outputs (provisional allocations) in real time, AutoCap enables participants and third parties to independently audit round progress and reproduce final allocation outcomes.
