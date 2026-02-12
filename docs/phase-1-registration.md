@@ -8,7 +8,8 @@ When a round opens, participants can register through the [AutoCap Dashboard](ht
 
 * **Connecting** a Filecoin-compatible wallet in the _**Burn Address**_ \
   &#x20;_This wallet is tracked for on-chain activity;_
-* **Paying** the **registration fee** from that wallet;
+* **Paying** the **registration fee** from that wallet\
+  &#xNAN;_&#x54;he fee is currently set to 0.00005 FIL/TiB on Mainnet but might change in future rounds;_
 * **Providing** a **DataCap Recipient Address** (`f0xxx`)\
   &#xNAN;_&#x54;his is the address that will receive DC at the end of the round._\
   _Participant can either provide the Actor ID of the wallet directly, or the wallet address (0x, f1, f2, ...). The registration form will automatically convert the address in the corresponding Actor ID._
