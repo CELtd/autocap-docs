@@ -1,5 +1,9 @@
 # Why a Registration Fee?
 
+{% hint style="info" %}
+The fee is currently set to 0.00005 FIL/TiB on Mainnet but might change in future rounds.
+{% endhint %}
+
 Registration fees do **not** count toward a participant’s eligible FIL burn for DataCap allocation.
 
 Their purpose is purely structural. The registration fee exists to:
